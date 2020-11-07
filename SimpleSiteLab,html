@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@1,500&family=Roboto:wght@900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="SiteStyle.css">
+    <title>Simple Site Lab</title>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Learn With Leon & Friends</h1>
+        <nav>
+          <a href="#about-us" class="active">About Us</a>
+          <a href="#Portofolio">Portofolio</a>
+        </nav>
+      </header>
+
+      <main>
+        <h2>About Us</h2>
+        <img src="logo.png" alt="Mini Leon">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      </main>
+
+      <footer>
+        <nav>
+          <a href="https://www.twitch.tv/learnwithleon">Twitch</a>
+          <a href="https://twitter.com/leonnoel">Twitter</a>
+          <a href="https://www.youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw">YouTube</a>
+        </nav>
+      </footer>
+    </div>
+  </body>
+</html>
