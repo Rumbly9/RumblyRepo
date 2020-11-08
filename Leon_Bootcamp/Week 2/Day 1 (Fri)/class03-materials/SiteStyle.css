@@ -25,9 +25,6 @@ nav > a:last-child{
   border-right: none;
   padding-right: none;
 }
-nav > a:first-child{
-  padding-left: none;
-}
 
 /* Main Section */
 
